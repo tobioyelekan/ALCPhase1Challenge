@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALCPhase1</string>
+    <string name="btn_about_alc">About ALC</string>
+    <string name="welcome_to_alc_label">Welcome to ALC 4.0</string>
+    <string name="btn_my_profile">My Profile</string>
+    <string name="profile_name">Oyelekan Tobi</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: miketobi73@gmail.com</string>
+    <string name="phone_number">Phone Number: 08022884698</string>
+    <string name="slack_username">Slack Username: @Mike Tobi</string>
+    <string name="title_home">Home</string>
+    <string name="about_title">About</string>
+    <string name="profile_title">Profile</string>
+</resources>
